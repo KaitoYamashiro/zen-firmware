@@ -13,6 +13,11 @@
             key-positions = <28 29>;
             layers = <2>;
         };
+
+        caps_lock {
+            bindings = <&kp CAPSLOCK>;
+            key-positions = <12 24>;
+        };
     };
 
     keymap {
