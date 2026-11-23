@@ -20,3 +20,7 @@
 &zen_transform {
     col-offset = <7>;
 };
+
+&zip_temp_layer {
+    require-prior-idle-ms = <250>;
+};
